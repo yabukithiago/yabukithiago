@@ -8,6 +8,7 @@
 ## Featured Projects
 
 Some of my most recent and interesting projects:
+- [Hestia Technology](https://github.com/yabukithiago/Hestia-Technology): This project consists of a consultancy management company; its backend was written in the "TypeScript" programming language. It has various features related to managing contracts, projects and employees, such as viewing data on the projects carried out by the company, the possibility of removing, changing and inserting projects, among others.
 
 - [Tourist Accommodation Management](https://github.com/yabukithiago/IPCA-Projects/tree/main/Tourist%20Accommodation%20Management): This program was written in the "C#" programming language and is designed to manage tourist accommodation. It includes various functions related to the management of room rentals, such as the visualization of data on rentals made by clients, a list of available rooms, the possibility of removing, changing and inserting rooms by saving them in files, among others.
 
