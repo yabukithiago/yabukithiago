@@ -30,7 +30,6 @@ I'm always open to collaboration and contributions. If you find any problems wit
 
 <div align="center"> 
   <h1>Connect with me on other platforms:</h1>
-<a href="https://instagram.com/yabukithiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/thiago-yabuki/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
