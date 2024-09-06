@@ -14,7 +14,7 @@ Some of my most recent and interesting projects:
 
 ## Skills
 
-- Programming Languages: C#, C, HTML.
+- Programming Languages: C#, C, JavaScript
 - Technologies: SQLServer.
 - Tools: VSCode, VSStudio, Git.
 
