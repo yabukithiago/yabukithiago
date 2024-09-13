@@ -22,9 +22,7 @@ Some of my most recent and interesting projects:
 
 I'm always open to collaboration and contributions. If you find any problems with my projects or have any suggestions, feel free to open an issue or send a pull request.
 
-## GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yabukithiago&show_icons=true&count_private=true&hide_border=true&title_color=54c83f&icon_color=54c83f&text_color=c9d1d9&bg_color=0d1117" alt="Thiago Yabuki GitHub Stats" /> 
+<div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yabukithiago&layout=compact&hide_border=true&title_color=54c83f&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
